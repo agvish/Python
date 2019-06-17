@@ -1,4 +1,7 @@
-"""Triangle Problem"""
+"""Triangle Problem. Divide each of side of the triangle into n terms and store those co-ordinates.
+Now check how may isosceles triangle can be formed with those new co-ordinates"""
+
+
 import math
 
 
