@@ -1,3 +1,6 @@
+"""A simple script to extract text from a scanned Image. """
+""" **Image with tabular data is not supported ** """
+
 from PIL import Image
 import cv2
 import argparse
