@@ -4,7 +4,7 @@ Following processing techniques are implemented:
 
 1: Binarizing Image
 2: Scaling Image
-3: Straightening Image via rotation
+3: De-skewing Image
 4: Denoising Image via erosion - dilation method
 5: Eroding Image
 6: Dilating Image
